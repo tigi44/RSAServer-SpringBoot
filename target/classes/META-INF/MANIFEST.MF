@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: tigi
+Build-Jdk: 9.0.4
+Implementation-Title: RSAServer-SpringBoot
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.tigi
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/RSAServer-SpringBoot
+Created-By: Maven Integration for Eclipse
+
