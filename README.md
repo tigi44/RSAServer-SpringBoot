@@ -3,7 +3,7 @@
 
 ## SERVER
 - Spring Boot 2.0.1
-- JAVA 9
+- JAVA 8
 
 ## CLIENT
 - https://github.com/tigi44/RSAClient-iOS
