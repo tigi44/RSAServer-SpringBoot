@@ -8,10 +8,8 @@
 ## CLIENT
 - https://github.com/tigi44/RSAClient-iOS
 
-## Sequence diagram
-### testSendRequestForGeneratingKey
-![testSendRequestForGeneratingKey](./img/testSendRequestForGeneratingKey.png)
-### testEncryptionByServerPublicKey
-![testEncryptionByServerPublicKey](./img/testEncryptionByServerPublicKey.png)
-### testDecryptionByiOSPrivateKey
-![testDecryptionByiOSPrivateKey](./img/testDecryptionByiOSPrivateKey.png)
+## Test Case
+### testRSA
+- Request : encryptByPublicKey (param : 'plainText', result : 'encryptText')
+- Request : decryptByPrivateKey (param : 'encryptText', result : 'decryptText')
+- Confirm : 'decryptText' is equal to 'plainText'
